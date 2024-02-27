@@ -1,2 +1,2 @@
 # Ads-on-vehicle
-it ismy first project 
+it is my first project 
